@@ -1,4 +1,4 @@
-![Image](https://github.com/labopm/oaklandSDS/blob/master/SDS_Logo_LinkedIn_744x400_color_3.jpg)
+![Image](SDS_Logo_LinkedIn_744x400_color_3.jpg)
 
 
 [Information about Oakland Summer Design School PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
