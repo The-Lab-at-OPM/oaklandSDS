@@ -1,6 +1,4 @@
-Information about Oakland Summer Design School at The Lab at OPM
-
-https://github.com/labopm/oaklandSDS/blob/master/SDSOakland_preview_packet_V4.pdf
+[Information about Oakland Summer Design School (PDF)](https://github.com/labopm/oaklandSDS/blob/master/SDSOakland_preview_packet_V4.pdf)
 
 
 
