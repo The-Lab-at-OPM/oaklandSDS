@@ -1,3 +1,9 @@
+Information about Oakland Summer Design School at The Lab at OPM
+
+https://github.com/labopm/oaklandSDS/blob/master/SDSOakland_preview_packet_V4.pdf
+
+
+
 <!-- ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/labopm/oaklandSDS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
