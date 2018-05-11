@@ -7,7 +7,7 @@ Over the course of the workshop, students will work on problems related to their
 
 We're looking forward to a great week and hope you can join us!
 
-Oakland Summer Design School
+Oakland Summer Design School  
 June 4-8, 2018 at Oakland City Hall
 
 ### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
