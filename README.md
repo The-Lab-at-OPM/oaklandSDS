@@ -3,7 +3,7 @@
 
 ### [Oakland Summer Design School schedule and information PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
-[Register:](<https://lab.opm.gov/class-sign-up/>
+Register: <https://lab.opm.gov/class-sign-up/>
 
 <!-- ## Welcome to GitHub Pages
 
