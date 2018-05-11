@@ -17,7 +17,7 @@ Register: <https://lab.opm.gov/class-sign-up/>
 <br>
 <br>
 
-p.s. On the east coast? Check out our Summer Design School in Washington DC
+p.s. On the east coast? Check out our <a href="http://bit.ly/washDC_SDS">Summer Design School in Washington DC</a>
 
 <!-- ## Welcome to GitHub Pages
 
