@@ -13,7 +13,8 @@ June 4-8, 2018 at Oakland City Hall
 ### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
 
-Register: <https://lab.opm.gov/class-sign-up/>
+Register: <https://lab.opm.gov/class-sign-up/>  
+  
 
 p.s. On the east coast? Check out our Summer Design School in Washington DC
 
