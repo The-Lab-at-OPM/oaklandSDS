@@ -1,4 +1,4 @@
-![Image](SDS_Logo_LinkedIn_744x400_color_3.jpg)
+<a href="https://lab.opm.gov/class-sign-up/" target="_blank">![Image](SDS_Logo_LinkedIn_744x400_color_3.jpg)</a>
 
 
 ### [Information about Oakland Summer Design School PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
