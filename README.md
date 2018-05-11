@@ -5,7 +5,7 @@ Summer Design School is a week-long workshop created by The Lab at OPM that expe
 
 Over the course of the workshop, students will work on problems related to their organizations as well as get the opportunity to focus on an issue relevant to the local community. This year, we are proud and excited to be partnering with the Mayor's Office at the City of Oakland; students who are interested will interact with subject matter experts from the city staff and provide input on a real and pressing problem as their design challenge for the week.
 
-We're looking forward to a great week and hope you can join us
+We're looking forward to a great week and hope you can join us!
 
 ### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
