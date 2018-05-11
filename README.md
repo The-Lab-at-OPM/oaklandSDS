@@ -1,9 +1,13 @@
 ![Image](SDS_Logo_LinkedIn_744x400_color_3.jpg)
 
 
-### [Download schedule and details PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
+Summer Design School is a week-long workshop created by The Lab at OPM that experiments with new ways of teaching, learning, and applying human-centered design in the public sector. We will look at complex challenges through a series of different frames, with an emphasis on understanding why, when, and how to apply design thinking to projects.
 
+Over the course of the workshop, students will work on problems related to their organizations as well as get the opportunity to focus on an issue relevant to the local community. This year, we are proud and excited to be partnering with the Mayor's Office at the City of Oakland; students who are interested will interact with subject matter experts from the city staff and provide input on a real and pressing problem as their design challenge for the week.
 
+We're looking forward to a great week and hope you can join us
+
+### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
 
 Register: <https://lab.opm.gov/class-sign-up/>
