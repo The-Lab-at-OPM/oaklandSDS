@@ -1,7 +1,7 @@
 ![Image](SDS_Logo_LinkedIn_744x400_color_3.jpg)
 
 
-### [Oakland Summer Design School schedule and information PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
+### [Oakland Summer Design School schedule and details PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
 Register: <https://lab.opm.gov/class-sign-up/>
 
