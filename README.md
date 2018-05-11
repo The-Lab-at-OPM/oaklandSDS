@@ -3,9 +3,6 @@
 
 ### [Information about Oakland Summer Design School PDF](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
 
-Register for Summer Design School (bottom of page): <https://lab.opm.gov/class-sign-up/>
-
-
 
 
 <!-- ## Welcome to GitHub Pages
