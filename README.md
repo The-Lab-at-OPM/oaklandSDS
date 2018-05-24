@@ -10,7 +10,7 @@ We're looking forward to a great week and hope you can join us!
 Oakland Summer Design School  
 June 4-8, 2018 at Oakland City Hall
 
-### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V4.pdf)
+### [Download schedule and details (PDF)](https://github.com/labopm/oaklandSDS/raw/master/SDSOakland_preview_packet_V5.pdf)
 
 Register: <https://lab.opm.gov/class-sign-up/>  
   
